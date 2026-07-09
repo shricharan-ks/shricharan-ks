@@ -201,13 +201,11 @@ My work sits at the intersection of applied AI research and enterprise engineeri
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shricharan-ks&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=E63946&icon_color=E63946" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shricharan-ks&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img src="./github-stats.svg" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shricharan-ks&theme=github-dark-blue&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946" alt="GitHub Streak"/>
+  <img src="./github-languages.svg" alt="Top Languages"/>
 </p>
 
 ---
