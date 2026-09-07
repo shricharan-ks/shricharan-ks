@@ -28,15 +28,24 @@ I'm a **Data Scientist at Red Hat** in Cork, Ireland, with 5+ years across **AI/
 
 ---
 
-## Open Source
+## What I Work On
 
-Where my day-to-day contributions land:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/red-hat-data-services/agentic-starter-kits">agentic-starter-kits</a></h3>
+      <p>Production-ready starter kits for building and deploying <strong>AI agents</strong> on Red Hat OpenShift AI. LangGraph, CrewAI, MLflow and Kagenti — run locally or deploy to RHOAI via OGX.</p>
+      <p><sub><strong>9 merged pull requests</strong> · red-hat-data-services</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/red-hat-data-services/red-hat-ai-examples">red-hat-ai-examples</a></h3>
+      <p>Reference workloads for <strong>Red Hat AI</strong> — training pipelines, model serving, knowledge tuning and agentic deployment patterns designed to run on OpenShift.</p>
+      <p><sub><strong>3 merged pull requests</strong> · red-hat-data-services</sub></p>
+    </td>
+  </tr>
+</table>
 
-| Project | What it is | My contributions |
-|---|---|---|
-| **[red-hat-data-services/agentic-starter-kits](https://github.com/red-hat-data-services/agentic-starter-kits)** | Starter kits for building and deploying AI agents on Red Hat OpenShift AI | 9 merged PRs |
-| **[red-hat-data-services/red-hat-ai-examples](https://github.com/red-hat-data-services/red-hat-ai-examples)** | Reference workloads for Red Hat AI — training, serving, knowledge tuning | 3 merged PRs |
-| **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | Open GenAI Stack — open-source stack for GenAI workloads | Contributor |
+Also contributing to **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** — the Open GenAI Stack for running GenAI workloads on Kubernetes.
 
 ---
 
@@ -61,12 +70,6 @@ Where my day-to-day contributions land:
 **Frontend** &nbsp;React · Angular · Flutter · TypeScript
 
 ---
-
-## GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shricharan-ks/shricharan-ks/stats/github-stats.svg" alt="Shri Charan's GitHub activity — commits, pull requests reviewed, and contribution calendar"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shricharan-ks&style=flat-square&color=E63946" alt="Profile views"/>
