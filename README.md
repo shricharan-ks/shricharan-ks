@@ -68,9 +68,3 @@ Also contributing to **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** — the Ope
 **Data** &nbsp;PostgreSQL · MongoDB · Redis · Neo4j · Qdrant
 
 **Frontend** &nbsp;React · Angular · Flutter · TypeScript
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shricharan-ks&style=flat-square&color=E63946" alt="Profile views"/>
-</p>
