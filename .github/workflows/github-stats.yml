@@ -11,6 +11,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Renders commits / PRs / review activity only.
+      # The community and repositories bases are deliberately omitted: on this
+      # account they render as a wall of zeros (0 orgs, 0 sponsors, 0 releases,
+      # 0 stargazers, 0 forkers) that weakens the profile rather than selling it.
       - name: Generate GitHub Stats
         uses: lowlighter/metrics@latest
         with:
@@ -19,34 +23,8 @@ jobs:
           filename: github-stats.svg
           committer_branch: stats
           template: classic
-          base: header, activity, community, repositories
-          base_indepth: yes
+          base: header, activity
           config_timezone: Europe/Dublin
           config_display: large
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_stars: yes
-          plugin_stars_limit: 4
-
-      - name: Generate Languages Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: shricharan-ks
-          filename: github-languages.svg
-          committer_branch: stats
-          template: classic
-          base: ""
-          config_timezone: Europe/Dublin
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 180
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_isocalendar_duration: full-year
