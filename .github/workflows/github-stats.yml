@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: shricharan-ks
           filename: github-stats.svg
+          committer_branch: stats
           template: classic
           base: header, activity, community, repositories
           base_indepth: yes
@@ -33,6 +34,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: shricharan-ks
           filename: github-languages.svg
+          committer_branch: stats
           template: classic
           base: ""
           config_timezone: Europe/Dublin

@@ -68,11 +68,11 @@ Data Scientist at **Red Hat** in Cork, Ireland, with 5+ years across AI/ML, full
 ## GitHub
 
 <p align="center">
-  <img src="./github-stats.svg" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/shricharan-ks/shricharan-ks/stats/github-stats.svg" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="./github-languages.svg" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/shricharan-ks/shricharan-ks/stats/github-languages.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
