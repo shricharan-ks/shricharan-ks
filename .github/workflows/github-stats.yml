@@ -24,7 +24,12 @@ jobs:
           committer_branch: stats
           template: classic
           base: header, activity
+          # indepth walks deeper history: without it the commit count reports
+          # 290 instead of the true 471.
+          base_indepth: yes
           config_timezone: Europe/Dublin
           config_display: large
+          # half-year, not full-year: the same commits spread over twice the
+          # window halves the "average per day" figure the calendar prints.
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
