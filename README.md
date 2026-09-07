@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/shricharan-ks">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=520&lines=Data+Scientist+%40+Red+Hat;5%2B+Years+in+AI+%7C+ML+%7C+GenAI;Building+Agentic+AI+for+the+Enterprise;From+Model+Training+to+Production+Inference" alt="Data Scientist at Red Hat building agentic AI for the enterprise" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%40+Red+Hat;5%2B+Years+in+AI+%7C+ML+%7C+GenAI;Building+Agentic+AI+for+the+Enterprise;From+Model+Training+to+Production+Inference" alt="Data Scientist at Red Hat building agentic AI for the enterprise" />
   </a>
 </p>
 
